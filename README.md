@@ -1,4 +1,4 @@
-# reunioes
+# Reuniões
 Repositório público para publicação das atas de reuniões.
 
 * Setembro/2016
