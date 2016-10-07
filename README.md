@@ -1,6 +1,8 @@
 # Reuniões
 Repositório público para publicação das atas de reuniões.
 
+* Outubro/2016
+	* [Dia  7](https://drive.google.com/open?id=0B8eSwDIKbcFKZ1VHQUIwalViSjQ)
 * Setembro/2016
 	* [Dia 30](https://drive.google.com/open?id=0B8eSwDIKbcFKQ1N0SXpnNWhReDQ)
 	* [Dia 26](https://drive.google.com/open?id=0B8eSwDIKbcFKaEZRT1J2NUNvOWc)
