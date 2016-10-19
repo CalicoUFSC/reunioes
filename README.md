@@ -1,6 +1,6 @@
 # Reuniões
 Repositório público para publicação das atas de reuniões.
-
+asdsa
 * Outubro/2016
 	* [Dia 14](https://drive.google.com/open?id=0B8eSwDIKbcFKMk1IMDZRWmd2VUE)
 	* [Dia  7](https://drive.google.com/open?id=0B8eSwDIKbcFKZ1VHQUIwalViSjQ)
