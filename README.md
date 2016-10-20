@@ -1,5 +1,19 @@
 # Reuniões
-Repositório público para publicação das atas de reuniões.
+      Repositório público para publicação das atas de reuniões.
+
+# Próxima reunião:
+    Data: 21/10/16
+    Horário: 12:00
+    Local: CTC107
+
+* Pautas para a próxima reunião:
+    * Eleição de diretor de centro.
+    * Repasse do financeiro do calico.
+    * SECCOM.
+        -Reunião com o pet sobre SECCOM 2017.
+    * Criação de uma Wall of Shame para o calico.
+
+# Atas
 
 * Outubro/2016
 	* [Dia 14](https://drive.google.com/open?id=0B8eSwDIKbcFKMk1IMDZRWmd2VUE)
