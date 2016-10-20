@@ -7,11 +7,11 @@
     Local: CTC107
 
 * Pautas para a próxima reunião:
-    * Eleição de diretor de centro.
-    * Repasse do financeiro do calico.
-    * SECCOM.
+    * Eleição de diretor de centro.                 Sugerido por: Ranieri Althoff
+    * Repasse do financeiro do calico.              Sugerido por: Bruna Fontes
+    * SECCOM.                                       Sugerido por: Caio e Salomão.
         -Reunião com o pet sobre SECCOM 2017.
-    * Criação de uma Wall of Shame para o calico.
+    * Criação de uma Wall of Shame para o calico.   Sugerido por: Patrick, Ranieri e Leonardo.
 
 # Atas
 
@@ -35,4 +35,3 @@
 
 [Link](https://drive.google.com/open?id=0B8eSwDIKbcFKbnZRaDlHZFNZbWM) para a
 pasta com as atas mais antigas.
-
