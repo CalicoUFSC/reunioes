@@ -1,21 +1,16 @@
 # Reuniões
-      Repositório público para publicação das atas de reuniões.
+Repositório público para publicação das atas e pautas das próximas reuniões.
 
-# Próxima reunião:
-    Data: 21/10/16
-    Horário: 12:00
-    Local: CTC107
+### Próxima reunião:
+* Data: --a definir--
+* Horário: --a definir--
+* Local: --a definir--
+* Pautas:
 
-* Pautas para a próxima reunião:
-    * Eleição de diretor de centro.                 Ranieri Althoff
-    * Repasse do financeiro do calico.              Bruna Fontes
-    * SECCOM.
-        -Reunião com o pet sobre SECCOM 2017.       Caio e Salomão.
-    * Criação de uma Wall of Shame para o calico.   Patrick, Ranieri e Leonardo.
-
-# Atas
+### Atas
 
 * Outubro/2016
+	* [Dia 21](https://drive.google.com/open?id=0B8eSwDIKbcFKaVdyUktOOTVtRjQ)
 	* [Dia 14](https://drive.google.com/open?id=0B8eSwDIKbcFKMk1IMDZRWmd2VUE)
 	* [Dia  7](https://drive.google.com/open?id=0B8eSwDIKbcFKZ1VHQUIwalViSjQ)
 * Setembro/2016
@@ -35,3 +30,4 @@
 
 [Link](https://drive.google.com/open?id=0B8eSwDIKbcFKbnZRaDlHZFNZbWM) para a
 pasta com as atas mais antigas.
+
