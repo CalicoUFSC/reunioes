@@ -2,9 +2,9 @@
 Repositório público para publicação das atas e pautas das próximas reuniões.
 
 ### Próxima reunião:
-* Data: --a definir--
-* Horário: --a definir--
-* Local: --a definir--
+* Data: 27/10/2016
+* Horário: 12:00
+* Local: CTC-201
 * Pautas:
 
 ### Atas
