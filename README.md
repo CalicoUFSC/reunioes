@@ -6,11 +6,12 @@ Repositório público para publicação das atas e pautas das próximas reuniõe
 * Horário: 12:00
 * Local: CTC-201
 * Pautas:
-    * Novo coordenador de eventos(Rodrigo Garcia)
     * Novas camisetas do curso(Ranieri Althoff)
     * Redistribuição dos membros sem atribuições(Ranieri Althoff)
     * Chave e fechadura(Caio Oliveira Pereira)
     * Cadeado do armário(Caio Oliveira Pereira)
+    * Liberação de dinheiro pela tesouraria
+    * PEC 241
 
 ### Atas
 
