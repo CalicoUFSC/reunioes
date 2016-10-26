@@ -10,8 +10,8 @@ Repositório público para publicação das atas e pautas das próximas reuniõe
     * Redistribuição dos membros sem atribuições(Ranieri Althoff)
     * Chave e fechadura(Caio Oliveira Pereira)
     * Cadeado do armário(Caio Oliveira Pereira)
-    * Liberação de dinheiro pela tesouraria
-    * PEC 241
+    * Liberação de dinheiro pela tesouraria(Caio Oliveira Pereira)
+    * PEC 241(Leonardo Oliveira da Silva)
 
 ### Atas
 
