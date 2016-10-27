@@ -1,17 +1,18 @@
 # Reuniões
-Repositório público para publicação das atas e pautas das próximas reuniões.
+Repositório para publicação das atas e pautas das próximas reuniões.
 
 ### Próxima reunião:
 * Data: 27/10/2016
 * Horário: 12:00
 * Local: CTC-201
 * Pautas:
-    * Novas camisetas do curso(Ranieri Althoff)
-    * Redistribuição dos membros sem atribuições(Ranieri Althoff)
-    * Chave e fechadura(Caio Oliveira Pereira)
-    * Cadeado do armário(Caio Oliveira Pereira)
-    * Liberação de dinheiro pela tesouraria(Caio Oliveira Pereira)
-    * PEC 241(Leonardo Oliveira da Silva)
+	- Novas camisetas do curso
+	- Redistribuição dos membros sem atribuição
+	- Chave e fechadura
+	- Cadeado do armário
+	- Liberação de dinheiro pela tesouraria
+	- Posicionamento sobre o CEB da greve geral
+
 
 ### Atas
 
@@ -35,5 +36,5 @@ Repositório público para publicação das atas e pautas das próximas reuniõe
 	* [Dia  8](https://drive.google.com/open?id=0B8eSwDIKbcFKMHlPY3BRZDJFeEk)
 
 [Link](https://drive.google.com/open?id=0B8eSwDIKbcFKbnZRaDlHZFNZbWM) para a
-pasta com as atas mais antigas.
+pasta com atas mais antigas.
 
