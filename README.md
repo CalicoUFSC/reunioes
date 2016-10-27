@@ -2,21 +2,16 @@
 Repositório para publicação das atas e pautas das próximas reuniões.
 
 ### Próxima reunião:
-* Data: 27/10/2016
+* Data: 04/11/2016
 * Horário: 12:00
 * Local: CTC-201
 * Pautas:
 	- Novas camisetas do curso
-	- Redistribuição dos membros sem atribuição
-	- Chave e fechadura
-	- Cadeado do armário
-	- Liberação de dinheiro pela tesouraria
-	- Posicionamento sobre o CEB da greve geral
-
 
 ### Atas
 
 * Outubro/2016
+    * [Dia 27](soon)
 	* [Dia 21](https://drive.google.com/open?id=0B8eSwDIKbcFKaVdyUktOOTVtRjQ)
 	* [Dia 14](https://drive.google.com/open?id=0B8eSwDIKbcFKMk1IMDZRWmd2VUE)
 	* [Dia  7](https://drive.google.com/open?id=0B8eSwDIKbcFKZ1VHQUIwalViSjQ)
