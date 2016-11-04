@@ -13,6 +13,8 @@ Repositório para publicação das atas e pautas das próximas reuniões.
 
 ### Atas
 
+* Novembro/2016
+	* [Dia  4](https://drive.google.com/open?id=0B8eSwDIKbcFKWWFYcWRObzRiRkU)
 * Outubro/2016
 	* [Dia 27](https://drive.google.com/open?id=0B8eSwDIKbcFKMFZpOG1LVG5vRmc)
 	* [Dia 21](https://drive.google.com/open?id=0B8eSwDIKbcFKaVdyUktOOTVtRjQ)
