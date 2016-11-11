@@ -2,16 +2,15 @@
 Repositório para publicação das atas e pautas das próximas reuniões.
 
 ### Próxima reunião:
-* Data: 11/11/2016
-* Horário: 12:00
-* Local: CTC-201
+* Data: -- a definir --
+* Horário: -- a definir --
+* Local: -- a definir --
 * Pautas:
-	* Novas camisetas do curso
-	* Acampalico
 
 ### Atas
 
 * Novembro/2016
+	* [Dia 11](https://drive.google.com/open?id=0B8eSwDIKbcFKd2VuZUYxdkVfTWs)
 	* [Dia  4](https://drive.google.com/open?id=0B8eSwDIKbcFKWWFYcWRObzRiRkU)
 * Outubro/2016
 	* [Dia 27](https://drive.google.com/open?id=0B8eSwDIKbcFKMFZpOG1LVG5vRmc)
