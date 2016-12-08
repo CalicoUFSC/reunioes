@@ -8,7 +8,8 @@ Repositório para publicação das atas e pautas das próximas reuniões.
 * Pautas:
 
 ### Atas
-
+* Dezembro/2016
+	* [Dia  7](https://drive.google.com/open?id=0B8eSwDIKbcFKeVFBZmRnVGlPZVE)
 * Novembro/2016
 	* [Dia 21](https://drive.google.com/open?id=0B8eSwDIKbcFKWDEtb1NvRloxU0E)
 	* [Dia 11](https://drive.google.com/open?id=0B8eSwDIKbcFKd2VuZUYxdkVfTWs)
