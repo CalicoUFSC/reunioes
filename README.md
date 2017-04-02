@@ -2,13 +2,15 @@
 Repositório para publicação das atas e pautas das próximas reuniões.
 
 ### Próxima reunião:
-* Data: -- a definir --
-* Horário: -- a definir --
+* Data: 04/04/2017
+* Horário: 12:00
 * Local: -- a definir --
 * Pautas:
+	* SECCOM
 
 ### Atas
 * Março/2017
+	* [Dia 21](https://drive.google.com/open?id=0B8eSwDIKbcFKSTh0a1phUl9nMUk)
 	* [Dia  9](https://drive.google.com/open?id=0B8eSwDIKbcFKVlZTMVpDVzdyUGs)
 * Dezembro/2016
 	* [Dia  7](https://drive.google.com/open?id=0B8eSwDIKbcFKeVFBZmRnVGlPZVE)
