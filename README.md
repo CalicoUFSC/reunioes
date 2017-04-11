@@ -6,10 +6,12 @@ Repositório para publicação das atas e pautas das próximas reuniões.
 * Horário: 12:00
 * Local: -- a definir --
 * Pautas:
-	
+
 
 ### Atas
+
 * Abril/2017
+	* [Dia 11](https://drive.google.com/open?id=0B8eSwDIKbcFKNjAwdFRqcGtPNjA)
 	* [Dia 04](https://drive.google.com/open?id=0B8eSwDIKbcFKRGEzZDJsbE1GYXc)
 * Março/2017
 	* [Dia 21](https://drive.google.com/open?id=0B8eSwDIKbcFKSTh0a1phUl9nMUk)
