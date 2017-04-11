@@ -13,13 +13,6 @@ Repositório para publicação das atas e pautas das próximas reuniões.
 * Abril/2017
 	* [Dia 11](https://drive.google.com/open?id=0B8eSwDIKbcFKNjAwdFRqcGtPNjA)
 	* [Dia 04](https://drive.google.com/open?id=0B8eSwDIKbcFKRGEzZDJsbE1GYXc)
-=======
-
-
-### Atas
-* Abril/2017
-	* [Dia  4](https://drive.google.com/open?id=0B8eSwDIKbcFKLUlrV0tES2hOX1U)
->>>>>>> 96685d0aa9e7f8b804228fe17a3d07f3311d382c
 * Março/2017
 	* [Dia 21](https://drive.google.com/open?id=0B8eSwDIKbcFKSTh0a1phUl9nMUk)
 	* [Dia  9](https://drive.google.com/open?id=0B8eSwDIKbcFKVlZTMVpDVzdyUGs)
