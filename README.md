@@ -2,17 +2,15 @@
 Repositório para publicação das atas e pautas das próximas reuniões.
 
 ### Próxima reunião:
-* Data: 18/04/2017
+* Data: 16/05/2017
 * Horário: 12:00
-* Local: EEL010
-* Pautas:
-
+* Local: Sede
 
 ### Atas
 
 * Abril/2017
 	* [Dia 11](https://drive.google.com/open?id=0B8eSwDIKbcFKNjAwdFRqcGtPNjA)
-	* [Dia 04](https://drive.google.com/open?id=0B8eSwDIKbcFKRGEzZDJsbE1GYXc)
+	* [Dia  4](https://drive.google.com/open?id=0B8eSwDIKbcFKLUlrV0tES2hOX1U)
 * Março/2017
 	* [Dia 21](https://drive.google.com/open?id=0B8eSwDIKbcFKSTh0a1phUl9nMUk)
 	* [Dia  9](https://drive.google.com/open?id=0B8eSwDIKbcFKVlZTMVpDVzdyUGs)
