@@ -7,6 +7,7 @@
 \RequirePackage[utf8]{inputenc}
 \RequirePackage[bottom=30mm,left=30mm,right=30mm,top=30mm]{geometry}
 \RequirePackage{xparse}
+\RequirePackage{indentfirst}
 
 \pagenumbering{gobble}
 
