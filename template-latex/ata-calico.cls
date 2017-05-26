@@ -4,7 +4,6 @@
 \LoadClass[a4paper, 12pt]{article}
 
 \RequirePackage[brazilian]{babel}
-\RequirePackage[utf8]{inputenc}
 \RequirePackage[bottom=30mm,left=30mm,right=30mm,top=30mm]{geometry}
 \RequirePackage{xparse}
 \RequirePackage{indentfirst}
@@ -25,7 +24,7 @@
     \LARGE{Ata de reunião}
     \hfill
     \footnotesize{Data: \today}
-    
+
     \noindent
     \hrulefill
 }
@@ -35,13 +34,20 @@
 \ExplSyntaxOn
 \NewDocumentCommand{\presentes}{ m }{
     \vspace{20pt}
-    
+
     \noindent
     \hrulefill\\
-    \textbf{Presentes:}\ #1\
-    
+    \textbf{Presentes:}\ \sort{#1}\
+
     % Conta o número de vírgulas no texto
     \seq_set_split:Nnn \l_tmpa_seq { , } { #1 }
     (\int_eval:n {(\seq_count:N \l_tmpa_seq)})
 }
 \ExplSyntaxOff
+
+\newcommand*{\sort}[1]{
+  \directlua{
+    local sort = require("sort")
+    sort("#1")
+  }
+}
