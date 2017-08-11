@@ -8,6 +8,8 @@ Repositório para publicação das atas e pautas das próximas reuniões.
 
 ### Atas
 
+* Agosto/2017
+	* [Dia  8](https://drive.google.com/open?id=0B8eSwDIKbcFKUGc5QTVGd09VVUk)
 * Maio/2017
 	* [Dia 30](https://drive.google.com/open?id=0B8eSwDIKbcFKZC03VUJFNW1vTGs)
 	* [Dia 23](https://drive.google.com/open?id=0B8eSwDIKbcFKcUsxbGxyUGEyY1k)
