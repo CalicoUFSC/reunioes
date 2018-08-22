@@ -1,13 +1,10 @@
 # Reuniões
 Repositório para publicação das atas e pautas das próximas reuniões.
 
-### Próxima reunião:
-* Data: 17/10/2017
-* Horário: 12:00
-* Local: CTC 204
-
 ### Atas
 
+* Agosto/2018
+	* [Dia 22](https://drive.google.com/open?id=1sWyj6ACbSJc4GITlgy39yxrGwWeIk6JG)
 * Outubro/2017
 	* [Dia 10](https://drive.google.com/open?id=0B8eSwDIKbcFKMDhKUk8zSzlTMzA)
 * Agosto/2017
