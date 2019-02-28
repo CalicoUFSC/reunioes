@@ -3,10 +3,13 @@
 
 \LoadClass[a4paper, 12pt]{article}
 
+\RequirePackage{luatex85}
+
 \RequirePackage[brazilian]{babel}
 \RequirePackage[bottom=30mm,left=30mm,right=30mm,top=30mm]{geometry}
 \RequirePackage{xparse}
 \RequirePackage{indentfirst}
+\RequirePackage[T1]{fontenc}
 
 \pagenumbering{gobble}
 
@@ -37,7 +40,7 @@
 
     \noindent
     \hrulefill\\
-    \textbf{Presentes:}\ \sort{#1}\
+    \textbf{Presentes:}\ \noexpand\sort{#1}\
 
     % Conta o número de vírgulas no texto
     \seq_set_split:Nnn \l_tmpa_seq { , } { #1 }
