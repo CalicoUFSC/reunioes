@@ -1,0 +1,43 @@
+\documentclass{ata-calico}
+\usepackage{indentfirst}
+\pagenumbering{arabic}
+\begin{document}
+
+\maketitle
+
+\pauta{Informes e Repasses}
+\begin{itemize}
+\item Colegiado do curso: Foram levados os pontos sobre a matrícula assistida da reunião passada e o projeto foi aprovado. Estamos esperando ser publicado para podermos divulgar.
+
+\item Conversa com o Guto: Recebemos um documento de 13 páginas de reclamações sobre o professor de SO2, incluindo relatos e informações gerais e tivemos uma reunião com o Guto e o coordenador Fletes. Guto foi teimoso e insistiu que eram poucos alunos, decidimos que precisamos de informações mais pontuais e de mais pessoas. Será marcada uma nova conversa para a próxima semana.
+
+\item Conselho do Centro: A ata passada foi aprovada, a qual continha o projeto da "nova DESEG" sobre as novas medidas de segurança como guaritas, cercar o campus, câmeras com reconhecimento fácil e etc. Foi dito também que a UFSC recebeu um ultimato para curricularizar a extensão até 2023. Professores disseram que isso não funcionaria no CTC, e que não poderíamos mudar os cursos desse jeito. Faremos uma conversa sobre a curricularização da extensão.
+\end{itemize}
+
+\pauta{Disciplinas de TCC}
+A pauta foi levantada devido a alta taxa de reprovação em disciplinas de TCC.
+
+Foi discutida a necessidade da presença do coordenador de TCC nas apresentações, e a obrigatoriedade dos artigos na entrega. 
+
+Salomão pergunta se foi discutida a obrigatoriedade das disciplinas de TCC, e que poderíamos ater a outras possibilidades. Caio diz que as disciplinas de TCC não são uteis e que uma disciplina de metodologia seria muito bom, principalmente com o prof. Raul.
+
+Otto diz que os PCCs seriam uma boa alternativa para os TCCs e diz que nas disciplinas, se você não tem uma ideia de TCC pra fazer, você acaba reprovando. Thales diz que as disciplinas de TCC dependem muito do planejamento pessoal, já que no final do semestre você tem que entregar alguma coisa. Cauê diz que os TCCs já podem ser projetos. Otto diz que ainda sim é preciso uma monografia e um artigo, fazendo o projeto em um modelo de TCC. 
+
+Caio propõe não haver disciplinas de TCC, podendo o aluno fazer uma disciplina de metodologia e ficar pendente para se formar apenas a  apresentação de TCC, e que alguns alunos estão se matriculando muito cedo em introdução a TCC, desse jeito, muitas pessoas ainda não viram muitas coisas sobre o curso. Thales diz que as pessoas podem pegar a matéria de metodologia sem realmente estar planejando um TCC, e que nas disciplinas as pessoas não são cobradas, aumentando o nível de reprovação. Otto diz que mais matérias de preparação resolveriam esse problema, já que entenderiam um cronograma de entrega. Otto diz que não se deveria começar introdução ao TCC sem um plano de TCC e um orientador. Caio diz que um problema também é que se é obrigado a fazer o TCC em um ano e meio, já que são 3 disciplinas, e, se você tem um TCC pronto em um semestre, não consegue se formar de prontidão.\newline
+
+\textbf{Ideias para encaminhamentos/pontos a se considerar:}
+
+\begin{itemize}
+\item Contar como carga horária observar bancas de TCC.
+\item Abolir a disciplina de introdução ao TCC e incluir uma matéria nova de metodologia.
+\item Deixar o sistema automatizar a reserva de horários. 
+\item Possibilidade de fazer um PCC.
+\item Aumentar pra 1h o tempo de apresentação de TCC, sendo 45 de apresentação de 15 de intervalo.
+\item Os requisitos para a apresentação deveriam ser apenas a banca e o lugar disponível.
+\end{itemize}
+\pauta{Regimento do Conselho de Centro}
+Havia uma proposta de manter as 9 cadeiras discentes e outra de aumentar pra 13. Foi concordado propor a proporção das 13 cadeiras para 11 cadeiras para a graduação e 2 para a APG. Propor também que a ata seja publicada em um prazo específico, depois de ser assinada.
+
+\presentes {Cauê Baasch, Mikael Saraiva, Luis Oswaldo, João Trombeta, Lucas Cavalcante de Sousa, Paloma Cione, Caio Oliveira, Thales, Otto Pires, Helena Aires, Salomão Rodrigues}
+\end{document}
+
