@@ -1,5 +1,9 @@
 # Reunião aberta da diretoria
 
+- Horário: 12h
+- Local: Sala CTC 103
+- Relator: Matheus D C Roque
+
 ## Informes e repasses
 
 - Hans: HH do DCE e Cali amanha, dia 20/04
