@@ -2,11 +2,9 @@
 Repositório para publicação das atas e pautas das próximas reuniões.
 
 # Próxima reunião:
-Sexta-feira, dia 11/10/2024, das 19h às 20h (extraordinária)
+Sexta-feira, dia 18/10/2024, das 19h às 20h (ordinária)
 
 ## Pautas
-1. Avaliar custeio dos *coffee breaks* da SECCOM
-2. Avaliar participação nos núcleos administrativos e estudantis: Conselho do CTC, Colegiado do Curso, Colegiado do Departamento e CEB
-3. Avaliar propostas de combate ao assédio
-4. Construção do calendário para este semestre
-    - Concurso de estampas para a camiseta do curso
+1. Avaliar custeio dos *coffee breaks* do jantar dos filósofos
+2. Mudar frequência das reuniões de quinzenal para semanal
+3. Decidir membro da gestão responsável pela representação do CALICO no CEB
