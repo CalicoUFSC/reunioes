@@ -2,7 +2,7 @@
 ### 18/10/2024
 
 **Relator:** Otávio Jatobá
-> **
+> *Só te digo uma coisa: não te digo nada. E te digo mais: só te digo isso.*
 
 ## Informes
 
