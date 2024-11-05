@@ -13,3 +13,4 @@ Sábado, dia 26/10/2024, das 14h às 15h (ordinária)
 - Aporte pro mural do CETEC
 - Balanço da SECCOM
 - Balanço da assembleia do CTC puxada pela CETEC
+ 
