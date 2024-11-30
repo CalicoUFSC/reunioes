@@ -2,7 +2,7 @@
 Repositório para publicação das atas e pautas das próximas reuniões.
 
 # Próxima reunião:
-Sexta-feira, dia 8/11/2024, das 19h às 20h (ordinária)
+Quinta-feira, dia 12/12/2024, das 10h às 11h30, presencial, na sede do CALICO (ordinária)
 
 ## Informes
 
