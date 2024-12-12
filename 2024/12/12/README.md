@@ -1,4 +1,4 @@
-# Ata de reunião da gestão 
+# Ata de reunião
 
 ### 12/12/2024
 
